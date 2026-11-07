@@ -43,10 +43,14 @@ Görselleştirme paketi, karmaşık model çıktılarını sezgisel bir yönetic
 
 Bu çalışma boyunca kullanılan çok aşamalı analitik varlıklar ve ham/işlenmiş veri bileşenlerine aşağıdaki bağlantılar üzerinden doğrudan erişilebilir:
 
-1. [**🔗 1. Ham Küresel Göstergeler Veri Seti (Kaynak)**](INSERT_RAW_DATA_LINK_1_HERE)
+1. **🔗 1. Ham Küresel Göstergeler Veri Setleri (Dünya Bankası Kaynakları):**
+   - [Gayrisafi Sermaye Oluşumu Verisi](https://data.worldbank.org/indicator/NE.GDI.TOTL.KD)
+   - [Ar-Ge Harcamaları Verisi](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS)
+   - [Kişi Başına Düşen GSYİH Verisi](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD)
+   - [Kişi Başına Düşen CO2 Emisyonları Verisi](https://data.worldbank.org/indicator/EN.GHG.CO2.PC.CE.AR5)
 
-2. [**🔗 2. Python Veri Önişleme ve Özellik Mühendisliği Notebook'u**](INSERT_NOTEBOOK_LINK_2_HERE)
+2. [**🔗 2. Python Veri Önişleme ve Özellik Mühendisliği Notebook'u**](./KMeans_IsolationForest_Analysis.ipynb)
 
-3. [**🔗 3. Dışa Aktarılan Nihai ML Sonuçları ve Kümeler CSV Dosyası (`KMeans_Sonuclari_2022.csv`)**](INSERT_CSV_LINK_3_HERE)
+3. [**🔗 3. Dışa Aktarılan Nihai ML Sonuçları CSV Dosyası**](./KMeans_Sonuclari_2022.csv)
 
-4. [**🔗 4. İnteraktif Power BI Panosu (`Dashboard_Visuals.pbix`)**](INSERT_PBIX_LINK_4_HERE)
+4. [**🔗 4. İnteraktif Power BI Panosu**](./Global_Emissions_Dashboard.pbix)
